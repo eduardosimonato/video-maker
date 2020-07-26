@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eduardosimonato/video-maker/issues"
   },
-  "homepage": "https://github.com/eduardosimonato/video-maker#readme"
+  "homepage": "https://github.com/eduardosimonato/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
